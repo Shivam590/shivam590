@@ -7,11 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam590&label=Profile%20views&color=0e75b6&style=flat" alt="shivam590" /> </p>
 
 
-- 🔭 I’m currently working on **6companies30days challenge by Arsh Goyal**
+- 🔭 I’m currently working on **Google Data analytics Professional certificate**
 
-- 🌱 I’m currently learning **DSA, Trading (as side interest), DevOps**
+- 🌱 I’m currently learning **Data Analytics, Trading (as side interest)**
 
-- 💬 Ask me about **C++ , HTML , CSS , Javascript**
+- 💬 Ask me about **Excel,Power BI, Tableu , SQL :) **
 
 - 📫 How to reach me **shivambansalmipad@gmail.com**
 
