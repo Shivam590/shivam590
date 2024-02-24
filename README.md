@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shivam bansal</h1>
-<h3 align="center">A passionate frontend developer and a learner</h3>
+<h3 align="center">A passionate Data Analyst and a learner</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Analytics, Trading (as side interest)**
 
-- 💬 Ask me about **Excel,Power BI, Tableu , SQL :) **
+- 💬 Ask me about **Excel,Power BI, Tableu , SQL **
 
 - 📫 How to reach me **shivambansalmipad@gmail.com**
 
